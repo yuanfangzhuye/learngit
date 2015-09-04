@@ -6,4 +6,5 @@
 
 \f0\fs24 \cf0 Git is a hehe distributed version control system.\
 Git is free software.\
-Creating a new branch is quick & simple.}
+Creating a new branch is quick & simple.\
+My text.}
